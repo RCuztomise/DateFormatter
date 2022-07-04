@@ -9,6 +9,12 @@ import Foundation
 
 public class FormatDate {
     
+    
+    public init(){
+        
+        
+    }
+    
     public func changeDateFormate(date : String,fromFormat : String,toFormat : String) -> String{
         
         let dateFormatter = DateFormatter()
