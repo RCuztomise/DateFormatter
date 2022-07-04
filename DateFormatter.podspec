@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'DateFormatter/Classes/**/*'
+  s.source_files = 'Classes/*.{h,m,swift}'
   
   # s.resource_bundles = {
   #   'DateFormatter' => ['DateFormatter/Assets/*.png']
