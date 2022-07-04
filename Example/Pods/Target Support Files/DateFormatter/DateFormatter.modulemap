@@ -1,0 +1,6 @@
+framework module DateFormatter {
+  umbrella header "DateFormatter-umbrella.h"
+
+  export *
+  module * { export * }
+}

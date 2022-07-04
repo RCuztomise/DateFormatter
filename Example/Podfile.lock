@@ -1,0 +1,16 @@
+PODS:
+  - DateFormatter (0.1.0)
+
+DEPENDENCIES:
+  - DateFormatter (from `../`)
+
+EXTERNAL SOURCES:
+  DateFormatter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DateFormatter: 0f03efe803454cdc5356769cd13aa02067ac4d9f
+
+PODFILE CHECKSUM: a39c534941d97973d6cc59c79332d4900e5d070d
+
+COCOAPODS: 1.11.3
