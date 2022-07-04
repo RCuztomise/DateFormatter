@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/Rajkumar Kumawat/DateFormatter'
+  s.homepage         = 'https://github.com/RCuztomise/DateFormatter'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Rajkumar Kumawat' => 'rajkumar.kumawat13@gmail.com' }
-  s.source           = { :git => 'https://github.com/Rajkumar Kumawat/DateFormatter.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/RCuztomise/DateFormatter.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
